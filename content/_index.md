@@ -26,19 +26,19 @@ title: ""
   <a href="/cv/" class="card">
     <i class="fa-solid fa-file-lines fa-2x"></i>
     <h3>Curriculum</h3>
-    <p>Esperienze, formazione e competenze professionali.</p>
-</a>
+    <p>Presentazione dettagliata del percorso professionale, competenze tecniche e certificazioni acquisite, per illustrare la mia esperienza nel settore dell’assistenza informatica e nello sviluppo di soluzioni tecnologiche professionali.</p>
+  </a>
 
   <a href="/servizi/" class="card">
     <i class="fa-solid fa-tools fa-2x"></i>
     <h3>Servizi di Assistenza</h3>
-    <p>Riparazioni, configurazioni e supporto remoto.</p>
+    <p>Offerta completa di servizi di supporto informatico, comprensiva di riparazioni hardware e software, configurazione reti e sistemi, consulenza sulla sicurezza dei dati e assistenza remota professionale per privati e aziende.</p>
   </a>
 
   <a href="/galleria/" class="card">
     <i class="fa-solid fa-camera fa-2x"></i>
     <h3>Galleria Interventi</h3>
-    <p>Progetti e lavori realizzati.</p>
+    <p>Raccolta visiva dei progetti realizzati e degli interventi tecnici eseguiti, a supporto della documentazione professionale e della dimostrazione delle competenze operative nel settore informatico.</p>
   </a>
 
 </div>
