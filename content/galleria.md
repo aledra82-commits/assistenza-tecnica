@@ -4,6 +4,9 @@ title: ""
 
 ## Galleria Interventi
 
+<!-- Lightbox CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet">
+
 <div class="gallery">
 
   <a href="/images/intervento1.jpg" data-lightbox="portfolio" data-title="Intervento 1">
@@ -18,5 +21,7 @@ title: ""
     <img src="/images/intervento3.jpg" alt="Intervento 3">
   </a>
 
-  <!-- Aggiungi altre immagini nello stesso formato -->
 </div>
+
+<!-- Lightbox JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
