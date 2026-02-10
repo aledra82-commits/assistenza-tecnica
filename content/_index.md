@@ -2,37 +2,35 @@
 title: "Alessandro Dragone"
 ---
 
-## Assistenza Tecnica Informatica
+<div class="hero">
+  <img src="/images/profilo.jpg" alt="Alessandro Dragone" class="profile-pic">
 
-Soluzioni rapide per PC, reti, sicurezza e supporto remoto.
-
-[Richiedi Assistenza](#contatti)
----
-
-## 🛠 Servizi
-
-### 💻 Riparazione PC e Mac
-Diagnosi e risoluzione problemi hardware e software.
-
-### 🌐 Configurazione Reti
-Installazione router, WiFi, reti aziendali.
-
-### 🔐 Sicurezza Informatica
-Protezione dati, antivirus, backup.
-
-### 🖥 Assistenza Remota
-Supporto veloce ovunque ti trovi.
-
-
-
-
+  <div class="intro">
+    <h1>Alessandro Dragone</h1>
+    <p>Tecnico Informatico – Assistenza PC, Reti e Sicurezza</p>
+    <p>Offro supporto tecnico professionale per privati e aziende.</p>
+  </div>
+</div>
 
 ---
 
-## 📞 Contatti
+## Le mie aree
 
-Email: aledra82@gmail.com  
-WhatsApp: +39 3891721212  
-LinkedIn: https://www.linkedin.com/in/aledra82/
+<div class="cards">
 
----
+  <div class="card">
+    <h3>📄 Curriculum</h3>
+    <p>Esperienze, formazione e competenze professionali.</p>
+  </div>
+
+  <div class="card">
+    <h3>🛠 Servizi di Assistenza</h3>
+    <p>Riparazioni, configurazioni e supporto remoto.</p>
+  </div>
+
+  <div class="card">
+    <h3>📸 Galleria Interventi</h3>
+    <p>Progetti e lavori realizzati.</p>
+  </div>
+
+</div>
