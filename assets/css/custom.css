@@ -116,6 +116,38 @@
   background-color: #008f80;
 }
 
+.site-footer {
+  margin-top: 60px;
+  padding: 20px 0;
+  text-align: center;
+  background-color: #f8f9fa;
+  color: #333;
+  border-top: 1px solid #ddd;
+}
+
+.site-footer p {
+  margin: 0 0 10px 0;
+  font-size: 14px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-icons a {
+  color: #333;
+  font-size: 18px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #00a99d; /* colore brand principale */
+}
+
+
 .cards a.card i {
   color: #00a99d; /* verde professionale */
   margin-bottom: 10px;
