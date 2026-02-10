@@ -8,7 +8,9 @@ title: ""
 
   <div class="intro">
     <h2>Alessandro Dragone</h2>
-    <p class="subtitle">Ingegnere Informatico certificato ACMT Apple</p>
+    <p class="subtitle">Ingegnere Informatico certificato ACMT
+      <img src="/images/apple-logo.png" alt="Apple" class="apple-logo">
+    </p>
     <p>Offro supporto tecnico professionale per privati e aziende.</p>
   </div>
 </div>
