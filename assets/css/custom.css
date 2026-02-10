@@ -116,6 +116,11 @@
   background-color: #008f80;
 }
 
+.cards a.card i {
+  color: #00a99d; /* verde professionale */
+  margin-bottom: 10px;
+}
+
 .site-footer {
   margin-top: 60px;
   padding: 20px 0;
@@ -123,11 +128,11 @@
   background-color: #f8f9fa;
   color: #333;
   border-top: 1px solid #ddd;
+  font-size: 14px;
 }
 
 .site-footer p {
   margin: 0 0 10px 0;
-  font-size: 14px;
 }
 
 .social-icons {
@@ -144,11 +149,5 @@
 }
 
 .social-icons a:hover {
-  color: #00a99d; /* colore brand principale */
-}
-
-
-.cards a.card i {
-  color: #00a99d; /* verde professionale */
-  margin-bottom: 10px;
+  color: #00a99d;
 }
