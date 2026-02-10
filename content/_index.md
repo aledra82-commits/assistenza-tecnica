@@ -27,13 +27,6 @@ title: ""
     <i class="fa-solid fa-file-lines fa-2x"></i>
     <h3>Curriculum</h3>
     <p>Esperienze, formazione e competenze professionali.</p>
-  <!-- Anteprima PDF -->
-  <embed src="/files/CV_Alessandro_Dragone.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="200px" style="margin-top:10px; border:1px solid #ddd; border-radius:5px;" />
-
-  <!-- Pulsante download -->
-  <a href="/files/CV_Alessandro_Dragone.pdf" download class="download-btn">
-    <i class="fa-solid fa-download"></i> Scarica CV
-  </a>
 </a>
 
   <a href="/servizi/" class="card">
