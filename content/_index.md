@@ -45,7 +45,10 @@ title: ""
 </div>
 
 <footer class="site-footer">
-  <p>© 2026 Alessandro Dragone. Tutti i diritti riservati.</p>
+  <p>
+    
+    
+    © 2026 Alessandro Dragone. Tutti i diritti riservati.</p>
   <div class="social-icons">
     <a href="https://www.facebook.com/aledra82" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
     <a href="https://www.instagram.com/aledra82" target="_blank"><i class="fa-brands fa-instagram"></i></a>
