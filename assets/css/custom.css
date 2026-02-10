@@ -115,3 +115,8 @@
 .download-btn:hover {
   background-color: #008f80;
 }
+
+.cards a.card i {
+  color: #00a99d; /* verde professionale */
+  margin-bottom: 10px;
+}
