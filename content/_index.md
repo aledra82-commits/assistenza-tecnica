@@ -14,30 +14,31 @@ title: ""
 
 ---
 
-## Le mie aree
+<div class="cards-header">
+  <h3>Servizi e Progetti</h3>
+  <a href="https://wa.me/393891721212" target="_blank" class="whatsapp-btn">
+    <i class="fa-brands fa-whatsapp"></i> Contatta
+  </a>
+</div>
 
 <div class="cards">
 
   <a href="/cv/" class="card">
-    <h3><i class="fa-solid fa-file-lines"></i> Curriculum</h3>
+    <i class="fa-solid fa-file-lines fa-2x"></i>
+    <h3>Curriculum</h3>
     <p>Esperienze, formazione e competenze professionali.</p>
   </a>
 
   <a href="/servizi/" class="card">
-    <h3><i class="fa-solid fa-tools"></i> Servizi di Assistenza</h3>
+    <i class="fa-solid fa-tools fa-2x"></i>
+    <h3>Servizi di Assistenza</h3>
     <p>Riparazioni, configurazioni e supporto remoto.</p>
   </a>
 
   <a href="/galleria/" class="card">
-    <h3><i class="fa-solid fa-camera"></i> Galleria Interventi</h3>
+    <i class="fa-solid fa-camera fa-2x"></i>
+    <h3>Galleria Interventi</h3>
     <p>Progetti e lavori realizzati.</p>
   </a>
 
-</div>
-
-<!-- Bottone WhatsApp fisso -->
-<div class="whatsapp-container">
-  <a href="https://wa.me/TUONUMERO" target="_blank" class="whatsapp-btn">
-    <i class="fa-brands fa-whatsapp"></i> WhatsApp
-  </a>
 </div>
