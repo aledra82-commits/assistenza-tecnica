@@ -35,12 +35,9 @@ title: ""
 
 </div>
 
-<div style="position:fixed;bottom:20px;right:20px;">
-  <a href="https://wa.me/393891721212" target="_blank" style="
-      background-color:#25d366;color:white;padding:12px 18px;
-      border-radius:50px;text-decoration:none;font-weight:bold;
-      display:flex;align-items:center;gap:8px;">
+<!-- Bottone WhatsApp fisso -->
+<div class="whatsapp-container">
+  <a href="https://wa.me/TUONUMERO" target="_blank" class="whatsapp-btn">
     <i class="fa-brands fa-whatsapp"></i> WhatsApp
   </a>
 </div>
-
